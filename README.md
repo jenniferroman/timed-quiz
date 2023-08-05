@@ -4,7 +4,7 @@ A timed quiz on JavaScript fundamentals that stores high scores.
 ![Quiz Screenshot](web-apis-homework.gif)
 
 ## Description
-Objective was to follow accessibility standards and improve search engine optimization. This goal was achieved by:
+Objective was to ... This goal was achieved by:
   <ol>
   <li>;</li>
   <li>;</li>
